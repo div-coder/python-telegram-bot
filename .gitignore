@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment and Secrets
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database files
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE configuration
+.vscode/
+.idea/
